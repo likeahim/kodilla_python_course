@@ -1,7 +1,8 @@
 shopping_dict = {
     "piekarnia": ["bułki", "chleb", "mąka"],
     "lidl": ["mleko", "ser", "ręcznik papierowy"],
-    "bierdronka": ["woda", "przekąski", "banany"]
+    "bierdronka": ["woda", "przekąski", "banany"],
+    "wędkarski": ["wędka", "podbierak", "nosówki"]
 }
 
 for item in shopping_dict:
