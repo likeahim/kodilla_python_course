@@ -10,3 +10,5 @@ for item in shopping_dict:
     print(f"idę do {item.capitalize()} aby kupić {products}")
 all_products = sum(len(values) for values in shopping_dict.values())
 print(f"w sumie kupię {all_products} produktów")
+
+print("what the change")
