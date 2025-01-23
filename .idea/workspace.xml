@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c591e305-df3e-4c98-a4bc-c2fa6922f3e1" name="Changes" comment="" />
+    <list default="true" id="c591e305-df3e-4c98-a4bc-c2fa6922f3e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/module3/exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/module3/exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/module3/exercise3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/module3/exercise4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/module4/4_1/methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/module4/4_2/final_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/module4/4_2/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/module4/4_2/help_fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/module4/4_2/lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/module4/4_2/positional_arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/module4/4_2/positional_named.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/module4/4_2/stars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +42,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://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@github.com/likeahim/kodilla_python_course.git&quot;,
+    &quot;url&quot;: &quot;https://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@github.com/likeahim/kodilla_python_course.git&quot;,
     &quot;accountId&quot;: &quot;dec2fa35-ab08-48c2-bac0-2c9eeafa5a8f&quot;
   }
 }</component>
@@ -42,9 +56,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.exercise1.executor": "Run",
+    "Python.exercise2.executor": "Run",
+    "Python.exercise4.executor": "Run",
+    "Python.final_ex.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.help_fun.executor": "Run",
+    "Python.lambda.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.methods.executor": "Run",
+    "Python.positional_arguments.executor": "Run",
+    "Python.positional_named.executor": "Run",
+    "Python.stars.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -73,6 +99,9 @@
       <updated>1737050881119</updated>
       <workItem from="1737050882387" duration="1275000" />
       <workItem from="1737385799311" duration="1958000" />
+      <workItem from="1737471668933" duration="4083000" />
+      <workItem from="1737564824120" duration="1555000" />
+      <workItem from="1737645235822" duration="3078000" />
     </task>
     <servers />
   </component>
