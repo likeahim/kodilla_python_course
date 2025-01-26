@@ -18,6 +18,16 @@ sales2016 = ['492,952','315,115','308,561','300,528','234,340','249,047','180,19
              '230,255','193,969','264,844','170,300','217,105','134,560','NA','214,435',
              '183,730','NA','NA','177,301','191,617','253,483','208,575','NA','195,653','NA']
 
+for i in zip(models,sales2018,sales2017,sales2016):
+    cars = {}
+    brand,model = i[0].split(" - ")
+    brand_models = cars.setdefault(brand,{})
+    brand_model_sales = brand_models.setdefault(model,{})
+    brand_model_sales["sales"] = {"2016": 0 if i[3] == "NA" else int(i[3].replace(',',"")),
+                                  "2017": 0 if i[2] == "NA" else int(i[2].replace(',',"")),
+                                  "2018": 0 if i[1] == "NA" else int(i[1].replace(',',""))}
+    print(brand, model)
+
 answer1 = "" # wskaż nazwę modelu jako string
 answer2 = "" # wskaż producenta jako string
 answer3 = [] # wskaż odpowiedź jako listę zawierającą wszystkie modele spełniające kryteria
